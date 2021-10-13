@@ -4,6 +4,7 @@ object wollok {
 		return 'I am Wolloktastic!'
 	}
 
+//nmhj
 }
 
-// comentario  
+// comentario   
