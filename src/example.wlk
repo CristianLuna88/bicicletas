@@ -1,6 +1,9 @@
-/** First Wollok example */
-object wollok {
+/** First Wollok example */ object wollok {
+
 	method howAreYou() {
 		return 'I am Wolloktastic!'
 	}
+
 }
+
+// comentario 
